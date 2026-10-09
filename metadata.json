@@ -1,0 +1,6 @@
+{
+  "name": "Sentilytics",
+  "description": "AI-powered review sentiment analyzer with aspect breakdown, emotional polarities, and detailed consumer insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
